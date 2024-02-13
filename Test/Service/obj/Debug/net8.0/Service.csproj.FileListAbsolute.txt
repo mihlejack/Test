@@ -1,0 +1,11 @@
+C:\Users\SipheloMgquba\Desktop\Practice\Test\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\SipheloMgquba\Desktop\Practice\Test\Service\bin\Debug\net8.0\Service.dll
+C:\Users\SipheloMgquba\Desktop\Practice\Test\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\SipheloMgquba\Desktop\Practice\Test\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SipheloMgquba\Desktop\Practice\Test\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\SipheloMgquba\Desktop\Practice\Test\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\SipheloMgquba\Desktop\Practice\Test\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\SipheloMgquba\Desktop\Practice\Test\Service\obj\Debug\net8.0\Service.dll
+C:\Users\SipheloMgquba\Desktop\Practice\Test\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\SipheloMgquba\Desktop\Practice\Test\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\SipheloMgquba\Desktop\Practice\Test\Service\obj\Debug\net8.0\ref\Service.dll
